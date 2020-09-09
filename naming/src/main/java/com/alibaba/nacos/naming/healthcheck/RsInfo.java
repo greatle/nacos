@@ -49,7 +49,7 @@ public class RsInfo {
     
     private double weight;
 
-    private boolean enabled;
+    private boolean enabled = true;
 
     private boolean ephemeral = true;
     
